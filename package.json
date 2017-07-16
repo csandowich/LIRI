@@ -1,0 +1,25 @@
+{
+  "name": "liri",
+  "version": "0.0.1",
+  "description": "\"display my tweets, show info about songs, and give movie info.\"",
+  "main": "keys.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.5",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csandowich/LIRI.git"
+  },
+  "author": "Caleb Sandowich <calebsandowich@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csandowich/LIRI/issues"
+  },
+  "homepage": "https://github.com/csandowich/LIRI#readme"
+}
